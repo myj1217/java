@@ -1,0 +1,9 @@
+package sec02.ex02;
+
+public class DefaultNumber {
+
+	public static void main(String[] args) {
+
+	}
+
+}

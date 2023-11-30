@@ -1,0 +1,9 @@
+package sec02.ex02;
+
+public class BooleanEx {
+
+	public static void main(String[] args) {
+
+	}
+
+}
